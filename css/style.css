@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+}
+.salida{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    width: 30%;
+    height: 8rem;
+    margin: 1rem 35%;
+    border: solid 1px;
+}
+.color-div{
+    text-align: center;
+}
